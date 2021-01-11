@@ -1,5 +1,5 @@
 # automated-reasoning-sat
-Course content and assignments on "Automated Reasoning: Satisfiability" course by EIT Digital on [coursera](https://www.coursera.org/learn/automated-reasoning-sat).
+Course content and assignments on ["Automated Reasoning: Satisfiability"](https://www.coursera.org/learn/automated-reasoning-sat) course by EIT Digital on coursera.
 
 The course is taught by [Prof. Hans Zantema](https://www.coursera.org/instructor/hanszantema), who is an Associate Professor in the Department of Mathematics and Computer Science at Eindhoven University of Technology (TU/e) and part time Full Professor at Radboud University in Nijmegen.
 
