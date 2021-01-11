@@ -1,5 +1,5 @@
 # automated-reasoning-sat
-Code for solving real life problems using the Z3 SMT solver. This project was done as a part of the honor assignemnts for the course ["Automated Reasoning: Satisfiability"](https://www.coursera.org/learn/automated-reasoning-sat) by EIT Digital on coursera.
+Code for solving real life problems using the Z3 SMT solver. This project was done as a part of the honor assignemnts for the course ["Automated Reasoning: Satisfiability"](https://www.coursera.org/learn/automated-reasoning-sat) by EIT Digital.
 
 The course is taught by [Prof. Hans Zantema](https://www.coursera.org/instructor/hanszantema), who is an Associate Professor in the Department of Mathematics and Computer Science at Eindhoven University of Technology (TU/e) and part time Full Professor at Radboud University in Nijmegen.
 
