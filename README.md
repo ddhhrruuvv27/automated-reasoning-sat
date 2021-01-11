@@ -12,4 +12,4 @@ Z3 SMT solver (a cross-platform satisfiability modulo theories solver by Microso
 Here is the basic information on [Z3](https://github.com/Z3Prover/z3/wiki#background).
 This project comprises of all the code that has been used for solving the assignemnts.
 
-The link to the certificate of successful completion with a honors in the course is [here](https://www.coursera.org/account/accomplishments/verify/AB5JSHHLK276).
+The link to the certificate of successful completion of the course with a honors distinction is [here](https://www.coursera.org/account/accomplishments/verify/AB5JSHHLK276).
